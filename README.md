@@ -1,16 +1,15 @@
-## Hi there 👋
+# Richard Spicer
 
-<!--
-**richardspicer/richardspicer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Engineer • CISSP • GCIH • GSEC
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I research AI/ML security vulnerabilities — discovering how AI agents can be manipulated, building detection for those attacks, and publishing what I find.
+
+## Current Projects
+
+**[IPI-Canary](https://github.com/richardspicer/IPI-Canary)** — A security testing tool for detecting Indirect Prompt Injection vulnerabilities in AI agents. Generates documents with hidden payloads across 7 formats using 34 techniques, and listens for out-of-band callbacks as proof-of-execution. Built with an AI-assisted workflow — [case study included](https://github.com/richardspicer/IPI-Canary/blob/main/docs/AI-Assisted-Development.md).
+
+## Links
+
+🌐 [richardspicer.io](https://richardspicer.io) · 💼 [LinkedIn](https://www.linkedin.com/in/richard-spicer)
