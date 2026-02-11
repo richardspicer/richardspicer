@@ -4,7 +4,7 @@ Security Engineer • CISSP • GCIH • GSEC
 
 ## What I Do
 
-I research AI/ML security vulnerabilities — discovering how AI agents can be manipulated, building detection for those attacks, and publishing what I find.
+I research AI/ML security vulnerabilities — how AI agents can be manipulated, how to detect those attacks, and building tools to test for them.
 
 ## Current Projects
 
