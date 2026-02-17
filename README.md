@@ -1,6 +1,6 @@
 # Richard Spicer
 
-Security Engineer • CISSP • GCIH • GSEC
+Security Researcher • CISSP • GCIH • GSEC
 
 Practicing Human-AI collaboration in security.
 Researching vulnerabilities in AI systems.
