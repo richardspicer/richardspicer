@@ -10,7 +10,7 @@ Practicing Human-AI collaboration in security. Researching vulnerabilities in AI
 [mcp-audit](https://github.com/richardspicer/mcp-audit) · mcp-proxy · agent-inject · agent-chain
 
 **[Volery](https://github.com/richardspicer/volery)** — Offensive security suite for content & supply chain attacks against AI agents. Proof-of-execution via out-of-band callback.
-[IPI-Canary](https://github.com/richardspicer/IPI-Canary) · CodeAgent-Canary · Embed-Ject
+[IPI-Canary](https://github.com/richardspicer/IPI-Canary) · CXP-Canary · Drongo
 
 ## Links
 
