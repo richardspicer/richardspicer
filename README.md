@@ -8,7 +8,7 @@ Practicing Human-AI collaboration in security. Researching vulnerabilities in AI
 
 **[CounterAgent](https://github.com/richardspicer/counteragent)** — Protocol & system security tooling for AI agent infrastructure. MCP servers, tool trust, agent delegation chains.
 
-**[Volery](https://github.com/richardspicer/volery)** — Offensive security suite for content & supply chain attacks against AI agents. Proof-of-execution via out-of-band callback.
+**[CounterSignal](https://github.com/richardspicer/countersignal)** — Offensive security suite for content & supply chain attacks against AI agents. Proof-of-execution via out-of-band callback.
 
 ## Links
 
