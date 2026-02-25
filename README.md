@@ -4,13 +4,11 @@ Security Researcher • CISSP • GCIH • GSEC
 
 Practicing Human-AI collaboration in security. Researching vulnerabilities in AI systems. Building detection. Publishing tools.
 
-## Current Programs
+## Current Projects
 
 **[CounterAgent](https://github.com/richardspicer/counteragent)** — Protocol & system security tooling for AI agent infrastructure. MCP servers, tool trust, agent delegation chains.
-[mcp-audit](https://github.com/richardspicer/mcp-audit) · [mcp-proxy](https://github.com/richardspicer/mcp-proxy) · agent-inject · agent-chain
 
 **[Volery](https://github.com/richardspicer/volery)** — Offensive security suite for content & supply chain attacks against AI agents. Proof-of-execution via out-of-band callback.
-[IPI-Canary](https://github.com/richardspicer/IPI-Canary) · [CXP-Canary](https://github.com/richardspicer/CXP-Canary) · Drongo
 
 ## Links
 
