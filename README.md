@@ -2,14 +2,14 @@
 
 Security Researcher • CISSP • GCIH • GSEC
 
-Practicing Human-AI collaboration in security. Researching vulnerabilities in AI systems. Building detection. Publishing tools.
+Building offensive security tools for AI agent infrastructure. Researching vulnerabilities. Publishing findings and detection rules.
 
 ## Current Projects
 
-**[CounterAgent](https://github.com/richardspicer/counteragent)** — Protocol & system security tooling for AI agent infrastructure. MCP servers, tool trust, agent delegation chains.
+**[CounterAgent](https://github.com/richardspicer/counteragent)** — AI agent red team platform. MCP server security, agent traffic interception, tool poisoning, agent-chain exploitation. Maps to OWASP MCP Top 10.
 
-**[CounterSignal](https://github.com/richardspicer/countersignal)** — Offensive security suite for content & supply chain attacks against AI agents. Proof-of-execution via out-of-band callback.
+**[CounterSignal](https://github.com/richardspicer/countersignal)** — Content & supply chain attack toolkit. Indirect prompt injection, context poisoning, retrieval poisoning. Proves the agent *acted*, not just that it *responded*.
 
 ## Links
 
-🌐 [richardspicer.io](https://richardspicer.io) · 💼 [LinkedIn](https://www.linkedin.com/in/richard-spicer)
+🌐 [richardspicer.io](https://richardspicer.io) · 🔬 [mlsecopslab.io](https://mlsecopslab.io) · 💼 [LinkedIn](https://www.linkedin.com/in/richard-spicer)
