@@ -10,4 +10,4 @@ Building security and research tools for AI infrastructure. Researching vulnerab
 
 ## Links
 
-🌐 [richardspicer.io](https://richardspicer.io) · 🔬 [mlsecopslab.io](https://mlsecopslab.io) · [q-uestionable.ai](https://q-uestionable.ai) · 💼 [LinkedIn](https://www.linkedin.com/in/richard-spicer)
+🌐 [richardspicer.io](https://richardspicer.io) · 🔬 [mlsecopslab.io](https://mlsecopslab.io) · 🔧 [q-uestionable.ai](https://q-uestionable.ai) · 💼 [LinkedIn](https://www.linkedin.com/in/richard-spicer)
