@@ -1,13 +1,12 @@
 # Richard Spicer
 
-Security Researcher • CISSP • GCIH • GSEC
+CISSP · GCIH · GSEC
 
-Building security and research tools for AI infrastructure. Researching vulnerabilities and weaknesses. Publishing findings and detection rules.
+Exploring AI/ML Security
 
-## Current Projects
+## Current projects
 
-**[{q-AI}](https://github.com/q-uestionable-AI)** — Security and Research tools for AI infrastructure.
-
-## Links
-
-🌐 [richardspicer.io](https://richardspicer.io) · 🔬 [mlsecopslab.io](https://mlsecopslab.io) · 🔧 [q-uestionable.ai](https://q-uestionable.ai)
+- **[CTPF Research Harness](https://github.com/q-uestionable-AI/CTPF)** —
+  Capability-trust experiments for agentic systems.
+- **[RISI Research Harness](https://github.com/q-uestionable-AI/RISI)** —
+  Controlled research into persistent AI-agent memory.
