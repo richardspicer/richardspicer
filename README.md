@@ -2,4 +2,4 @@
 
 CISSP · GCIH · GSEC
 
-Exploring AI/ML Security
+Enterprise, Cloud & AI Security
